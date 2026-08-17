@@ -5,8 +5,9 @@
   源码来自：  [VIKINGYFY](https://github.com/VIKINGYFY/OpenWRT-CI) & [davidtall](https://github.com/davidtall/DaeWRT-CI)  
   略微修改，适度精简，确保最大性能发挥。
 
-  追求更加精简➡️https://github.com/GHNERCH/OpenWRT-CI-MINI  
   生产力工具：Samba4,Openlist2,Dae,Homeproxy,Openclash,Tailscale
+
+  追求更加精简➡️https://github.com/GHNERCH/OpenWRT-CI-MINI  
   
   开启内核eBPF，Dae吃鹅优选，建议硬改1GB内存的使用。
   
