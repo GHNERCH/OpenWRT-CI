@@ -14,4 +14,4 @@
   刷机前请更换分区表和uboot,参考链接: https://www.right.com.cn/forum/thread-8402269-1-1.html            
   
   全系带开源硬件加速。\
-  一键加群👉：<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=6JLaTPbGP2Qc43A06HiIP7w-vCVrR7Iu&jump_from=webapi&authKey=aGTurX/4rsPB7hTWBLyXGQyzsYUdTyrjKXe7xwX0Dm3gqICCnIug5MkSoeeKqG0k">< alt="GHNERCH-AX1800PRO交流群" title="GHNERCH-AX1800PRO交流群"></a>
+  一键加群👉：<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=JAXRvGel73h8wPAC55HUk1k4U7NtB9R_&jump_from=webapi&authKey=wdAelIahPdV2xYXxFRU7yKqTpobWUj42HAkdrIEFr9R1Fh9CC4x/e0ZUSvMzH0bZ"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="GHNERCH-OpenWRT-CI交流2群" title="GHNERCH-OpenWRT-CI交流2群"></a>
