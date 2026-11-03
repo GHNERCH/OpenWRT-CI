@@ -2,7 +2,7 @@
 # Copyright (C) 2026 VIKINGYFY
 
 #云编译公用核心
-name: WRT-CORE- NERCH
+name: WRT-CORE
 
 on:
   workflow_call:
